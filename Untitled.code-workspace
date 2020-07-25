@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../GitHub/sample-code"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
