@@ -25,4 +25,4 @@ db.once('open', function() {
 
 Animal.insertMany(dbSeed, function(error, animal) {
   console.log('Data import completed.')
-});
+});  
